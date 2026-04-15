@@ -21,7 +21,8 @@ jobs:
           curl -sL 'https://www.indicepa.gov.it/public-services/opendata-read-service.php?dstype=FS&filename=amministrazioni.txt' \
             | tail -n +2 \
             | cut -f1 \
-            | LC_COLLATE=C sort > ipa-codes.txt
+            | LC_COLLATE=C sort \
+            | sed 's/^/urn:x-italian-pa:/' > ipa-codes.txt
 
       - uses: peter-evans/create-pull-request@5e914681df9dc83aa4e4905692ca88beb2f9e91f # v7
         id: create-pr
