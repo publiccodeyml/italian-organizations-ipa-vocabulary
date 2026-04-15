@@ -1,0 +1,38 @@
+name: Update IPA codes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 8 * * *"
+
+permissions: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+
+      - name: Download IPA codes
+        run: |
+          curl -sL 'https://www.indicepa.gov.it/public-services/opendata-read-service.php?dstype=FS&filename=amministrazioni.txt' \
+            | tail -n +2 \
+            | cut -f1 \
+            | LC_COLLATE=C sort > ipa-codes.txt
+
+      - uses: peter-evans/create-pull-request@5e914681df9dc83aa4e4905692ca88beb2f9e91f # v7
+        id: create-pr
+        with:
+          commit-message: "chore: update ipa-codes.txt"
+          title: "chore: update ipa-codes.txt"
+          body: ""
+          branch: update-ipa-codes
+
+      - name: Merge PR
+        if: steps.create-pr.outputs.pull-request-number
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh pr merge ${{ steps.create-pr.outputs.pull-request-number }} --squash --delete-branch
