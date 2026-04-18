@@ -508,6 +508,7 @@ urn:x-italian-pa:A690_bpe
 urn:x-italian-pa:A6BF9LF1
 urn:x-italian-pa:A6E9WZKL
 urn:x-italian-pa:A6N7IW0N
+urn:x-italian-pa:A7OQ3OTD
 urn:x-italian-pa:A86RQ42W
 urn:x-italian-pa:A9AHBMJJ
 urn:x-italian-pa:A9OYQOCS
@@ -1366,6 +1367,7 @@ urn:x-italian-pa:LRESIYGI
 urn:x-italian-pa:LRUVEVK1
 urn:x-italian-pa:LSUA
 urn:x-italian-pa:LT321HPJ
+urn:x-italian-pa:LWD9TUO1
 urn:x-italian-pa:LXFZQA8T
 urn:x-italian-pa:LYO1B6G5
 urn:x-italian-pa:M0YJKCLH
