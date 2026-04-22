@@ -14899,7 +14899,6 @@ urn:x-italian-pa:istsc_GEIC804001
 urn:x-italian-pa:istsc_GEIS00700L
 urn:x-italian-pa:istsc_GRIS01200Q
 urn:x-italian-pa:istsc_ISIC82500P
-urn:x-italian-pa:istsc_KRIC82900L
 urn:x-italian-pa:istsc_KRIS00900G
 urn:x-italian-pa:istsc_LEIC88900T
 urn:x-italian-pa:istsc_LEIS02100Q
