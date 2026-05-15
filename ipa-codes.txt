@@ -1772,7 +1772,6 @@ urn:x-italian-pa:SPAM
 urn:x-italian-pa:SPJZTLCS
 urn:x-italian-pa:SQ4C1NAN
 urn:x-italian-pa:SQ8S0ULH
-urn:x-italian-pa:SQC4HLP9
 urn:x-italian-pa:SQFU4YLW
 urn:x-italian-pa:SQNI37XJ
 urn:x-italian-pa:SQQ0F9ZQ
