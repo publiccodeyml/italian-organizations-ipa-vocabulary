@@ -15032,7 +15032,6 @@ urn:x-italian-pa:istsc_agic820005
 urn:x-italian-pa:istsc_agic821001
 urn:x-italian-pa:istsc_agic82400c
 urn:x-italian-pa:istsc_agic826004
-urn:x-italian-pa:istsc_agic82700x
 urn:x-italian-pa:istsc_agic82800q
 urn:x-italian-pa:istsc_agic82900g
 urn:x-italian-pa:istsc_agic83000q
