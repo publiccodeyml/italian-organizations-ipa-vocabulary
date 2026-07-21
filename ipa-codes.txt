@@ -426,6 +426,7 @@ urn:x-italian-pa:84IX3L0P
 urn:x-italian-pa:85FQR8X2
 urn:x-italian-pa:85X474AS
 urn:x-italian-pa:876UN3AE
+urn:x-italian-pa:87WKSKRN
 urn:x-italian-pa:897QGW69
 urn:x-italian-pa:8D20RCTE
 urn:x-italian-pa:8D75X2F2
@@ -581,6 +582,7 @@ urn:x-italian-pa:ASL_CN1
 urn:x-italian-pa:ASL_TO4
 urn:x-italian-pa:ASPA_BZ
 urn:x-italian-pa:ASSL10VE
+urn:x-italian-pa:ASYRO3N9
 urn:x-italian-pa:ATOBRENT
 urn:x-italian-pa:ATO_PU
 urn:x-italian-pa:AU042WP3
