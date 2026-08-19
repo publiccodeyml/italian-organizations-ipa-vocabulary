@@ -1320,6 +1320,7 @@ urn:x-italian-pa:KHS8BAX6
 urn:x-italian-pa:KIWMXNLV
 urn:x-italian-pa:KJ5DGXX5
 urn:x-italian-pa:KJF8JBIJ
+urn:x-italian-pa:KLTE0J0S
 urn:x-italian-pa:KM0AWSR8
 urn:x-italian-pa:KM9238GS
 urn:x-italian-pa:KML594NG
@@ -1826,6 +1827,7 @@ urn:x-italian-pa:SW05P9R2
 urn:x-italian-pa:SWDCN5UW
 urn:x-italian-pa:SXCEMZG2
 urn:x-italian-pa:SXP896FE
+urn:x-italian-pa:SY0OKFWP
 urn:x-italian-pa:SYHR34EV
 urn:x-italian-pa:SZCLNUW9
 urn:x-italian-pa:Sgf_Bz
