@@ -1002,6 +1002,7 @@ urn:x-italian-pa:EPNFCMFC
 urn:x-italian-pa:EPTI
 urn:x-italian-pa:EQ30LF00
 urn:x-italian-pa:EQNF6ZOI
+urn:x-italian-pa:EQWBYWZ6
 urn:x-italian-pa:ERDU2BYW
 urn:x-italian-pa:ERDaSU85
 urn:x-italian-pa:ERDaSUM
@@ -1824,6 +1825,7 @@ urn:x-italian-pa:S8RKWIG8
 urn:x-italian-pa:S9IDIP7L
 urn:x-italian-pa:S9QYWRKQ
 urn:x-italian-pa:S9YPFBNX
+urn:x-italian-pa:SAA1ND28
 urn:x-italian-pa:SAZSJA0R
 urn:x-italian-pa:SC4BNAP3
 urn:x-italian-pa:SCSWXASS
