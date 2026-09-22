@@ -1071,6 +1071,7 @@ urn:x-italian-pa:FOKRBVR0
 urn:x-italian-pa:FORIG8YE
 urn:x-italian-pa:FQ8OIE3X
 urn:x-italian-pa:FQI44I69
+urn:x-italian-pa:FQRPOTBZ
 urn:x-italian-pa:FRIS0290
 urn:x-italian-pa:FSECGBJF
 urn:x-italian-pa:FT0SUMSK
@@ -1120,6 +1121,7 @@ urn:x-italian-pa:GMXNO8SD
 urn:x-italian-pa:GMZIT0PY
 urn:x-italian-pa:GN0HBZ05
 urn:x-italian-pa:GNAREC9U
+urn:x-italian-pa:GNZ0CGYX
 urn:x-italian-pa:GO2B9CDP
 urn:x-italian-pa:GOCE3CPR
 urn:x-italian-pa:GPK9BU0B
@@ -1716,6 +1718,7 @@ urn:x-italian-pa:Q9E8DKHW
 urn:x-italian-pa:Q9O3Y14I
 urn:x-italian-pa:Q9ZRU4AW
 urn:x-italian-pa:QA2NUQ30
+urn:x-italian-pa:QAHDBGZA
 urn:x-italian-pa:QCBA4LCT
 urn:x-italian-pa:QCQAFHBA
 urn:x-italian-pa:QD4GFLVX
@@ -1723,6 +1726,7 @@ urn:x-italian-pa:QDGRMW90
 urn:x-italian-pa:QF4082UN
 urn:x-italian-pa:QFAZCUD0
 urn:x-italian-pa:QFIYTE9U
+urn:x-italian-pa:QG3VR7IW
 urn:x-italian-pa:QH4MZ3X6
 urn:x-italian-pa:QJ4P2CRH
 urn:x-italian-pa:QL1G28WV
