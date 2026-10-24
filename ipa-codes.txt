@@ -1393,7 +1393,6 @@ urn:x-italian-pa:KTC92OJB
 urn:x-italian-pa:KTTXEPSD
 urn:x-italian-pa:KUA0LWFK
 urn:x-italian-pa:KUE9J1VN
-urn:x-italian-pa:KUHE68JM
 urn:x-italian-pa:KVMM16LX
 urn:x-italian-pa:KVVYPQ6G
 urn:x-italian-pa:KVXA3LTB
