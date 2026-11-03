@@ -3393,7 +3393,6 @@ urn:x-italian-pa:asugi
 urn:x-italian-pa:asupor
 urn:x-italian-pa:asus
 urn:x-italian-pa:asvola
-urn:x-italian-pa:asvospa
 urn:x-italian-pa:atam
 urn:x-italian-pa:atapp
 urn:x-italian-pa:atbsp
@@ -18430,7 +18429,6 @@ urn:x-italian-pa:istsc_namm297002
 urn:x-italian-pa:istsc_namm31400e
 urn:x-italian-pa:istsc_namm33000c
 urn:x-italian-pa:istsc_namm34100v
-urn:x-italian-pa:istsc_namm47600p
 urn:x-italian-pa:istsc_namm488001
 urn:x-italian-pa:istsc_namm535009
 urn:x-italian-pa:istsc_namm607002
