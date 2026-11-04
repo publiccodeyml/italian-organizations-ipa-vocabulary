@@ -20443,7 +20443,6 @@ urn:x-italian-pa:istsc_tepc030005
 urn:x-italian-pa:istsc_tepm010004
 urn:x-italian-pa:istsc_teps010003
 urn:x-italian-pa:istsc_teps02000n
-urn:x-italian-pa:istsc_tesd01000d
 urn:x-italian-pa:istsc_tevc010007
 urn:x-italian-pa:istsc_toee00400r
 urn:x-italian-pa:istsc_toee01400b
