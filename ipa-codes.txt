@@ -709,6 +709,7 @@ urn:x-italian-pa:CASRIPBO
 urn:x-italian-pa:CAV9SBL2
 urn:x-italian-pa:CAZPTS31
 urn:x-italian-pa:CC2XBZ24
+urn:x-italian-pa:CCBINGJF
 urn:x-italian-pa:CCDFRIU
 urn:x-italian-pa:CCIAAUR
 urn:x-italian-pa:CCWAVI
@@ -21917,7 +21918,6 @@ urn:x-italian-pa:odasr_42
 urn:x-italian-pa:odasrp
 urn:x-italian-pa:odasrt
 urn:x-italian-pa:odast
-urn:x-italian-pa:odasvo
 urn:x-italian-pa:odat
 urn:x-italian-pa:odat_022
 urn:x-italian-pa:odat_030
